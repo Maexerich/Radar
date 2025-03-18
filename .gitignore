@@ -1,4 +1,9 @@
 .vscode/
+ZadarSoftwareDriver*/
+
+# Data: rosbags & pkl files
+*.pkl
+*.bag
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

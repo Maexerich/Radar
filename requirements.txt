@@ -4,3 +4,11 @@ torch
 numpy
 ipykernel
 scipy
+
+# For ROS operations required:
+rosbags
+PyYAML
+pycryptodome
+pycryptodomex
+python-gnupg
+rospkg
