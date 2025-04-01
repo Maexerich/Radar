@@ -51,6 +51,8 @@ evo_traj bag RIOAnalysis/data/RH_LH/modRIO_small_2025-03-19-15-58-07.bag /rio/od
 ## *_small_2025-03-19-15-59-50.bag
 Here we also visualize the orientation because this dataset by coincidence has well behaved orientations (do not go over the periodicity boundary).
 ### Position
+![alt](/RIOAnalysis/Default_small_2025-03-19-15-59-50.png "Default RIO"){: style="width:500px"} ![alt](/RIOAnalysis/Mod_small_2025-03-19-15-59-50.png "Modified RIO"){: style="width:500px"}
+
 <div style="display: flex; justify-content: space-between;">
     <div style="text-align: center;">
         <img src="/RIOAnalysis/Default_small_2025-03-19-15-59-50.png" alt="Default RIO" width="40%">
