@@ -39,7 +39,6 @@ evo_traj bag RIOAnalysis/data/RH_LH/modRIO_small_2025-03-19-15-58-07.bag /rio/od
 ```
 <p>
     <img src="/RIOAnalysis/Default_small_2025-03-19-15-58-07.png" alt="Default RIO" hspace="10" width="45%">
-    <br>
     <img src="/RIOAnalysis/Mod_small_2025-03-19-15-58-07.png" alt="Modified RIO" hspace="10" width="45%">
     <br>
     <em>Left: Default RIO, Right: Modified RIO</em>
