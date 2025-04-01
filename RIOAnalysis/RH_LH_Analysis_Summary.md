@@ -78,7 +78,7 @@ Here we also visualize the orientation because this dataset by coincidence has w
     <em>Left: Default RIO, Right: Modified RIO</em>
 </p>
 
-# Statistics
+# Statistics: Relative Pose Error (RPE)
 Statistics on relative-pose-error (rpe) across all datasets.
 Replace specific bag file name in the following code;
 ```bash
