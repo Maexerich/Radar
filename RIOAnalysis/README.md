@@ -39,11 +39,11 @@ evo_traj bag RIOAnalysis/data/RH_LH/modRIO_small_2025-03-19-15-58-07.bag /rio/od
 ```
 <div style="display: flex; justify-content: space-between;">
     <div style="text-align: center;">
-        <img src="/RIOAnalysis/Default_small_2025-03-19-15-58-07.png" alt="Default RIO" width="40%">
+        <img src="/RIOAnalysis/Default_small_2025-03-19-15-58-07.png" alt="Default RIO" width="100%">
         <p>Default RIO</p>
     </div>
     <div style="text-align: center;">
-        <img src="/RIOAnalysis/Mod_small_2025-03-19-15-58-07.png" alt="Modified RIO" width="40%">
+        <img src="/RIOAnalysis/Mod_small_2025-03-19-15-58-07.png" alt="Modified RIO" width="100%">
         <p>Modified RIO</p>
     </div>
 </div>
@@ -51,27 +51,29 @@ evo_traj bag RIOAnalysis/data/RH_LH/modRIO_small_2025-03-19-15-58-07.bag /rio/od
 ## *_small_2025-03-19-15-59-50.bag
 Here we also visualize the orientation because this dataset by coincidence has well behaved orientations (do not go over the periodicity boundary).
 ### Position
-![alt](/RIOAnalysis/Default_small_2025-03-19-15-59-50.png "Default RIO"){: style="width:500px"} ![alt](/RIOAnalysis/Mod_small_2025-03-19-15-59-50.png "Modified RIO"){: style="width:500px"}
-
-<div style="display: flex; justify-content: space-between;">
+<p>
+    <img src="/RIOAnalysis/Default_small_2025-03-19-15-59-50.png" alt="Default RIO" hspace="10" width="45%">
+    <img src="/RIOAnalysis/Mod_small_2025-03-19-15-59-50.png" alt="Modified RIO" hspace="10" width="45%">
+</p>
+<!-- <div style="display: flex; justify-content: space-between;">
     <div style="text-align: center;">
-        <img src="/RIOAnalysis/Default_small_2025-03-19-15-59-50.png" alt="Default RIO" width="40%">
+        <img src="/RIOAnalysis/Default_small_2025-03-19-15-59-50.png" alt="Default RIO" width="100%">
         <p>Default RIO</p>
     </div>
     <div style="text-align: center;">
-        <img src="/RIOAnalysis/Mod_small_2025-03-19-15-59-50.png" alt="Modified RIO" width="40%">
+        <img src="/RIOAnalysis/Mod_small_2025-03-19-15-59-50.png" alt="Modified RIO" width="100%">
         <p>Modified RIO</p>
     </div>
-</div>
+</div> -->
 
 ### Orientation
 <div style="display: flex; justify-content: space-between;">
     <div style="text-align: center;">
-        <img src="/RIOAnalysis/Default_orientation_small_2025-03-19-15-59-50.png" alt="Default RIO" width="40%">
+        <img src="/RIOAnalysis/Default_orientation_small_2025-03-19-15-59-50.png" alt="Default RIO" width="100%">
         <p>Default RIO</p>
     </div>
     <div style="text-align: center;">
-        <img src="/RIOAnalysis/Mod_orientation_small_2025-03-19-15-59-50.png" alt="Modified RIO" width="40%">
+        <img src="/RIOAnalysis/Mod_orientation_small_2025-03-19-15-59-50.png" alt="Modified RIO" width="100%">
         <p>Modified RIO</p>
     </div>
 </div>
@@ -79,11 +81,11 @@ Here we also visualize the orientation because this dataset by coincidence has w
 ## *_medium_easy_2025-03-19-16-02-39.bag
 <div style="display: flex; justify-content: space-between;">
     <div style="text-align: center;">
-        <img src="/RIOAnalysis/Default_medium_easy_2025-03-19-16-02-39.png" alt="Default RIO" width="40%">
+        <img src="/RIOAnalysis/Default_medium_easy_2025-03-19-16-02-39.png" alt="Default RIO" width="100%">
         <p>Default RIO</p>
     </div>
     <div style="text-align: center;">
-        <img src="/RIOAnalysis/Mod_medium_easy_2025-03-19-16-02-39.png" alt="Modified RIO" width="40%">
+        <img src="/RIOAnalysis/Mod_medium_easy_2025-03-19-16-02-39.png" alt="Modified RIO" width="100%">
         <p>Modified RIO</p>
     </div>
 </div>
@@ -91,11 +93,11 @@ Here we also visualize the orientation because this dataset by coincidence has w
 ## *_medium_2025-03-19-16-00-45.bag
 <div style="display: flex; justify-content: space-between;">
     <div style="text-align: center;">
-        <img src="/RIOAnalysis/Default_medium_2025-03-19-16-00-45.png" alt="Default RIO" width="40%">
+        <img src="/RIOAnalysis/Default_medium_2025-03-19-16-00-45.png" alt="Default RIO" width="100%">
         <p>Default RIO</p>
     </div>
     <div style="text-align: center;">
-        <img src="/RIOAnalysis/Mod_medium_2025-03-19-16-00-45.png" alt="Modified RIO" width="40%">
+        <img src="/RIOAnalysis/Mod_medium_2025-03-19-16-00-45.png" alt="Modified RIO" width="100%">
         <p>Modified RIO</p>
     </div>
 </div>
