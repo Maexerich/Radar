@@ -5,6 +5,9 @@ numpy
 ipykernel
 scipy
 
+# For trajectory analysis:
+evo
+
 # For ROS operations required:
 rosbags
 PyYAML
