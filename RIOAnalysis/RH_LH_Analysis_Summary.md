@@ -96,4 +96,4 @@ evo_rpe bag RIOAnalysis/data/RH_LH/defaultRIO_small_2025-03-19-15-58-07.bag /rad
 
 Without looking at all numbers or plots too precisely, I find it obvious that the current RIO implementation has mistakenly neglected the fact of the LH coordinate frame and does not consider it.
 
-Considering that the coordinate frame of the TI is LH by default and flipping the z_axis to make it a RH coordinate frame clearly and in my opinion undoubtedly improves the RIO estimate.
+Considering that the coordinate frame of the TI is LH by default and flipping the z_axis to make it a RH coordinate frame clearly and in my opinion undoubtedly improves the RIO estimate. 
