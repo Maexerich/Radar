@@ -17,7 +17,7 @@ Color denotes distance. Pink at 10m or further. Room is little speck in the midd
     <em>Top down view of panning motion in VICON room while walking in 'circles'.</em>
 </p>
 
-In the right  image we can see in red the trace from the circular motion. The straigth edge which is approached closely is most likely the metal-laced-net. It is not obvious that the wall behind is detected.
+In the right  image we can see in red the trace from the circular motion. The straight edge which is approached closely is most likely the metal-laced-net. It is not obvious that the wall behind is detected.
 
 ## allSensors_noRIO_short_staticslowpan_2025-04-02-17-00-38.bag
 In the figures we have a part of the dataset which is quasi-static (handheld) and aggregated for 20s.

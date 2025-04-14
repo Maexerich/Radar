@@ -1,3 +1,5 @@
+> Data directory has been updated. Some commands here are outdated. New directory for data is at root of this repository in the `data` folder.
+
 # Goal
 We want to determine whether RIO as implemented [here](https://github.com/ethz-asl/rio/tree/demo/smooth_flight_tuned) uses a LH or RH radar coordinate frame as input, respectively the impact of feeding a RH vs LH coordinate frame to RIO.
 
@@ -5,6 +7,11 @@ From the current RIO implementation it is not clear whether the LH coordinate fr
 
 # Procedure
 Run RIO twice; (a) no changes and (b) where we flip the z-axis-sign within the code of RIO.
+For this the launch file [rio_from_recorded_bag.launch](https://github.com/Maexerich/radar_rig_sensor_fusion/blob/main/launch/rio_from_recorded_bag.launch) was used.
+The rio package was taken from the demo/smooth_flight_tuned branch of the [RIO](https://github.com/Maexerich/radar_rig_sensor_fusion/blob/main/launch/rio_from_recorded_bag.launch) repository (must change repo slightly to have only the `/rio/` directory left so that catkin build works).
+```bash
+
+```
 
 We then compare the output of the two estimated trajectories to the ground truth vicon trajectory.
 
